@@ -1,5 +1,7 @@
 # Ejercicio.-Repaso-de-python
 
+https://github.com/rosanacasasolafdezceu/Ejercicio.-Repaso-de-python.git
+
 🧩 Ejercicio 1: Decodificador de Mensajes Secretos
 Has recibido un mensaje cifrado en una cadena de texto. El mensaje está invertido y contiene caracteres especiales que deben eliminarse.
 Tarea:
